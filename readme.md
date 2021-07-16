@@ -18,6 +18,9 @@
 错误配置|描述|验证
 ---|---|---
 [--privileged](./特权容器/readme.md)|特权容器导致的逃逸|已验证
+[Shocker](./Shocker/readme.md)|CAP_DAC_READ_SEARCH错误配置|未验证
+[未授权访问](./未授权访问.md)|docker remote api未授权访问|未验证
+[不当挂载](./不当挂载.md)|docker.sock挂载到容器内部|未验证
 
 
 # 0x04 总结
