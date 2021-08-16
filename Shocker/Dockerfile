@@ -1,1 +1,3 @@
 FROM ubuntu
+
+COPY shocker /
